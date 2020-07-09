@@ -1,9 +1,9 @@
-<!-- [![Actions Status](https://github.com/msantino/publish-event-sns/workflows/CI/badge.svg)](https://github.com/msantino/publish-event-sns/actions) -->
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![PyPI version](https://badge.fury.io/py/publish-event-sns.svg)](https://badge.fury.io/py/publish-event-sns)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<!-- [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/msantino/publish-event-sns.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/msantino/publish-event-sns/context:python) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/msantino.svg?style=social&label=Follow)](https://twitter.com/msantino)
+<!-- [![Actions Status](https://github.com/msantino/publish-event-sns/workflows/CI/badge.svg)](https://github.com/msantino/publish-event-sns/actions) -->
+<!-- [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/msantino/publish-event-sns.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/msantino/publish-event-sns/context:python) -->
 
 
 
